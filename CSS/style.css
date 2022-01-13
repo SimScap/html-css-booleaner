@@ -71,6 +71,7 @@ table{
 th{
     background-color: rgb(0, 76, 255);
     color: white;
+    text-align: left;
 }
 
 tr:nth-child(odd) {
@@ -105,5 +106,5 @@ div{
 }
 
 td{
-    text-align: center;
+    text-align: left;
 }
