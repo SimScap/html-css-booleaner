@@ -74,7 +74,12 @@ th{
 }
 
 tr:nth-child(odd) {
-    background-color: #67A1F1; }
+    background-color: #67A1F1; 
+}
+
+tr:nth-child(even) {
+    background-color: #c5cfdd; 
+}   
 
 footer{
     margin:20px;
