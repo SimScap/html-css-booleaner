@@ -94,3 +94,11 @@ div{
     background-image: url('../img/graph.jpg'); 
     margin-top: 10px;
 }
+
+.resize{
+    width: 40%;
+}
+
+td{
+    text-align: center;
+}
