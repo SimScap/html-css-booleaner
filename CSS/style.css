@@ -36,13 +36,11 @@ h4{
 
 main{
     width: 70%;
+    margin: 20px;
 }
 
 .img1{
     width: 49%;
-    margin-top: 20px;
-
-
 }
 
 .img2{
@@ -50,12 +48,12 @@ main{
     
 }
 
-.paragraph{
+p{
     margin-top: 20px;
 }
 ul{
     margin-top: 20px;
-    margin-left: 20px; 
+    margin-left: 20px;
 }
 
 table{
@@ -73,3 +71,23 @@ th{
 
 tr:nth-child(odd) {
     background-color: #67A1F1; }
+
+footer{
+    margin:20px;
+}
+
+div{ 
+    width: 300px;
+    height: 200px;
+    font-size: 20px;
+    color: white;
+    font-family: fantasy;
+}
+
+.background1{
+    background-image: url('../img/monitor.jpg');
+}
+.background2{
+    background-image: url('../img/graph.jpg'); 
+    margin-top: 10px;
+}
